@@ -14,13 +14,13 @@ const BackgroundLayout = (props: Props) => {
 			flex={1}
 			{...boxProps}
 		>
-			{imageSource && (
+			{/* {imageSource && (
 				<ImageBackground
 					source={imageSource || require("../../assets/icon.png")}
 					style={{ flex: 1 }}
 					resizeMode="stretch"
 				/>
-			)}
+			)} */}
 			<Box
 				position={"absolute"}
 				height={"100%"}
