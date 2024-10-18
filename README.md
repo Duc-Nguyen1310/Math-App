@@ -1,16 +1,22 @@
 
 ## **Math For Kids App**:
 Math For Kids App is an interactive learning tools for elementary students. It is a suitable app to kids because this app teaches kids math in a fun interactive way which helps them in building to become an expert in math.
-## **For kids**:
+## **Learning**:
 
-- **Learning Lessons**: 4 lessons from youtube in total to learn. 
-- **Counting Numbers**: count the numbers of animals appearing on the screen.
-- **Additional and Subtractional calculation**: Multiple numbers of simple calculation to solve.
-
+- **Video Lessons**: 4 lessons from youtube in total to learn. Students are allowed to study each topics before the exam including: Shapes, Calculation and Counting. 
 ![alt text](./assets/IMG_4710.PNG)
+## **Practicing**:
+- **Counting Numbers**: count the numbers of animals appearing on the screen.
 ![alt text](./assets/IMG_4713.PNG)
+- **Additional and Subtractional calculation**: Multiple numbers of simple calculation to solve.
 ![alt text](./assets/IMG_4717.PNG)
 ![alt text](./assets/IMG_4718.PNG)
+## **Testing**:
+There is an exam in the end of the lesson to test the students ability.
+![alt text](./assets/IMG_4873.PNG)
+
+
+
 
 
 
