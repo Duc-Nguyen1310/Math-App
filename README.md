@@ -1,5 +1,5 @@
 
-## ** Math For Kids App**:
+## **Math For Kids App**:
 Math For Kids App is an interactive learning tools for elementary students. It is a suitable app to kids because this app teaches kids math in a fun interactive way which helps them in building to become an expert in math.
 ## **For kids**:
 
@@ -16,7 +16,6 @@ Math For Kids App is an interactive learning tools for elementary students. It i
 
 
 ![Logo](./assets/IMG_4720.PNG)
-
 
 ## Run Locally
 
